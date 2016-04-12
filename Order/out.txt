@@ -1,0 +1,6 @@
+Factura
+Order nr1
+Client Details:
+Name:Stefania Sucitu 	Phone:0740957969
+Product Details:
+Name:Product1    Price:3
